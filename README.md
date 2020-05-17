@@ -45,11 +45,9 @@ En latinoamerica el país con mayor número de casos y que presenta una curva en
 ![Image7](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(6).png)
 ### Casos confirmados de coronavirus en el mundo por fecha
 En este gráfico podemos evidenciar el crecimiento de la pandemia geográficamente, se pueden evidenciar los paises con mayor número de muertes con la barra de color, Estados Unidos y Europa presentan cifras altas de muertes.
-![Image8](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(7).png)
 ![Image8](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(7)2.png)
 ![Image8](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(7)3.png)
 ### Casos confirmados de coronavirus en el mundo (División política)
 En esta gráfica se hace una diferenciación de la división politica de una manera más clara y se evidencia como al pasar el tiempo paises como China controlan el número de casos confirmados, mientras que paises como Estados Unidos aumentan significativamente el número de casos. También se observa crecimiento de número de casos en regiones como Europa y Sur America.
-![Image9](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(8).png)
 ![Image9](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(8)2.png)
 ![Image9](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(8)3.png)
