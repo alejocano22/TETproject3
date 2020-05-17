@@ -11,47 +11,48 @@ https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia </br>
 
 ## Notebook
 [Notebook](https://github.com/alejocano22/TETproject3/blob/master/notebooks/colab/covid.ipynb)
-[EMR](https://github.com/alejocano22/TETproject3/blob/master/images/NotebookEMR.PNG)
+![EMR](https://github.com/alejocano22/TETproject3/blob/master/images/NotebookEMR.PNG)
 
 ## Ingesta y Almacenamiento de datos en S3
 ### Datasets
 Colombia: s3://tet-covid-datasets/colombia </br>
 Mundial: s3://tet-covid-datasets/mundial </br>
-[Datasets](https://github.com/alejocano22/TETproject3/blob/master/images/S3.PNG)
+![Datasets](https://github.com/alejocano22/TETproject3/blob/master/images/S3.PNG)
 
-### Ingesta de datos desde S3
-[Ingesta](https://github.com/alejocano22/TETproject3/blob/master/images/IngestaDatosS3.PNG)
+### Ingesta de datos en S3
+Se realizo la ingesta de datos en S3:
+![Ingesta](https://github.com/alejocano22/TETproject3/blob/master/images/IngestaDatosS3.PNG)
 
 ### Datos guardados en S3
 Posterior a su análisis, los datasets fueron nuevamente guardados en S3:
-[Guardados](https://github.com/alejocano22/TETproject3/blob/master/images/GuardarDatosS3.PNG)
+![Guardados](https://github.com/alejocano22/TETproject3/blob/master/images/GuardarDatosS3.PNG)
 
 ### Outputs 
 Outputs: s3://tet-covid-datasets/outputs </br>
 
 ## Análisis descriptivo exploratorio
-Se usó pyspark, además se realizó la limpieza de algunos datos que presentaban incosistencias.
+Se usó pyspark, además se realizó la limpieza de algunos datos que presentaban incosistencias, se eliminaron y añadieron columnas.
 A continuación se presentarán algunas de las agrupaciones y filtrados realizados en los datasets </br>
 Filtro 1: Personas menores de 18 años en estado Grave o Fallecido
-[filtro1](https://github.com/alejocano22/TETproject3/blob/master/images/filtro1.PNG)
+![filtro1](https://github.com/alejocano22/TETproject3/blob/master/images/filtro1.PNG)
 
 Grupo 1: Contador de personas agrupadas por país de procedencia del COVID
-[grupo1](https://github.com/alejocano22/TETproject3/blob/master/images/grupo1.PNG)
+![grupo1](https://github.com/alejocano22/TETproject3/blob/master/images/grupo1.PNG)
 
 Grupo 2: Contador de personas agrupadas por Departamento o Distrito
-[grupo2](https://github.com/alejocano22/TETproject3/blob/master/images/grupo2.PNG)
+![grupo2](https://github.com/alejocano22/TETproject3/blob/master/images/grupo2.PNG)
 
 Grupo 3: Contador de personas Fallecidas agrupadas por Departamento o Distrito
-[grupo3](https://github.com/alejocano22/TETproject3/blob/master/images/grupo3.PNG)
+![grupo3](https://github.com/alejocano22/TETproject3/blob/master/images/grupo3.PNG)
 
 Grupo 4: Casos confirmados, muertes y tasa de fatalidad agrupados por código ISO y por región
-[grupo4](https://github.com/alejocano22/TETproject3/blob/master/images/grupo4.PNG)
+![grupo4](https://github.com/alejocano22/TETproject3/blob/master/images/grupo4.PNG)
 
 Grupo 5: Número de muertes agrupados por código ISO y región
-[grupo5](https://github.com/alejocano22/TETproject3/blob/master/images/grupo5.PNG)
+![grupo5](https://github.com/alejocano22/TETproject3/blob/master/images/grupo5.PNG)
 
 Grupo 6: Número de recuperados agrupados por código ISO y región
-[grupo6](https://github.com/alejocano22/TETproject3/blob/master/images/grupo6.PNG)
+![grupo6](https://github.com/alejocano22/TETproject3/blob/master/images/grupo6.PNG)
 
 ## Gráficas
 Se realizaron visualizaciones de datos de Colombia, el mundo y Colombia vs el mundo. </br>
