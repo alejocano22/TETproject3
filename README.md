@@ -72,7 +72,7 @@ Se puede evidenciar que los paises con mayor tasa de letalidad son Nicaragua, Be
 ![Image3](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(2).png)
 
 ### Países latinos con tasa de letalidad más alta y Colombia
-En latinoamerica los países con tasas de letalidad más alta son Mexico, Ecuador y Argentina. Se puede observar que Peru tiene un número de casos confirmados muy alto, sin embargo su tasa de mortalidad ronda el 2.81%. Colombia tienen una tasa de letalidad del 3.86%
+En latinoamérica los países con tasas de letalidad más alta son México, Ecuador y Argentina. Se puede observar que Peru tiene un número de casos confirmados muy alto, sin embargo su tasa de mortalidad ronda el 2.81%. Colombia tienen una tasa de letalidad del 3.86%
 ![Image4](https://github.com/alejocano22/TETproject3/blob/master/images/newplot%20(3).png)
 
 ### Casos confirmados por tiempo en los 10 países con más casos y Colombia
